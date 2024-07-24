@@ -10,6 +10,6 @@ Este proyecto es un conjunto de pruebas automatizadas utilizando Selenium, Cucum
 
 ## Ejecución de pruebas
 
-Para ejecutar las pruebas, utiliza el siguiente comando:
+Desde la clase runner 
+![image](https://github.com/user-attachments/assets/1bc57f03-f04d-4f22-8aab-c4d0480c23e2)
 
-gradle build
